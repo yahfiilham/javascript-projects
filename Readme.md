@@ -2,4 +2,4 @@
 
 ### You can see all projects in action here
 
-[Projects]('')
+[Projects](https://my-javascript-projects.netlify.app/)
